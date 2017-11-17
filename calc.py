@@ -1,8 +1,8 @@
 def add(a,b)
-fail
+pass
 def subtract(a,b)
-fail
+pass
 def multiplication(a,b)
-fail
+pass
 def division(a,b)
 fail
